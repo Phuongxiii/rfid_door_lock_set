@@ -1,14 +1,11 @@
 # ninja log v5
-6	106	7384037284066068	CMakeFiles/rfid_door_lock_set.dir/Startup/startup_stm32f103c8tx.s.obj	b5127d16efa280b6
-0	128	7384037284288343	CMakeFiles/rfid_door_lock_set.dir/Src/main.c.obj	346f8d5c5b230271
-10	161	7384037284600162	CMakeFiles/rfid_door_lock_set.dir/Src/sysmem.c.obj	87abb23235f39859
-16	221	7384037285156226	CMakeFiles/rfid_door_lock_set.dir/Src/syscalls.c.obj	ffc204f819606ebc
-222	459	7384037286417339	rfid_door_lock_set.elf	da94f9bd0973b810
-1	101	7384206030939745	CMakeFiles/rfid_door_lock_set.dir/Src/main.c.obj	346f8d5c5b230271
-102	323	7384206032142078	rfid_door_lock_set.elf	da94f9bd0973b810
-1	91	7384207628135761	CMakeFiles/rfid_door_lock_set.dir/Src/main.c.obj	346f8d5c5b230271
-92	250	7384207629113302	rfid_door_lock_set.elf	da94f9bd0973b810
-1	87	7384207754408283	CMakeFiles/rfid_door_lock_set.dir/Src/main.c.obj	346f8d5c5b230271
-88	256	7384207755445490	rfid_door_lock_set.elf	da94f9bd0973b810
-1	87	7384207899954949	CMakeFiles/rfid_door_lock_set.dir/Src/main.c.obj	346f8d5c5b230271
-87	243	7384207900873723	rfid_door_lock_set.elf	da94f9bd0973b810
+6	113	7552023889222129	CMakeFiles/rfid_door_lock_set.dir/Startup/startup_stm32f103c8tx.s.obj	9885709d92468490
+1	79	7552024045824284	CMakeFiles/rfid_door_lock_set.dir/Src/main.c.obj	d6b6cfbf5617a8a3
+15	323	7552023891343369	CMakeFiles/rfid_door_lock_set.dir/Src/sysmem.c.obj	1c7990c7395cf8bf
+10	524	7552023893364285	CMakeFiles/rfid_door_lock_set.dir/Src/syscalls.c.obj	6391f190b500cc93
+80	243	7552024046797356	rfid_door_lock_set.elf	46a4942722ddf38d
+7	114	7552026793116830	CMakeFiles/rfid_door_lock_set.dir/Drivers/Src/stm32f103xx.c.obj	cbe9c0189cd4150e
+2	120	7552026793206824	CMakeFiles/rfid_door_lock_set.dir/Src/main.c.obj	5802cf0fdece80b2
+17	149	7552026793523439	CMakeFiles/rfid_door_lock_set.dir/Src/sysmem.c.obj	4ab91291d28dc772
+11	173	7552026793773421	CMakeFiles/rfid_door_lock_set.dir/Src/syscalls.c.obj	685ac6d8fb790e9b
+174	344	7552026794768846	rfid_door_lock_set.elf	bd8a59fc8735501

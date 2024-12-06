@@ -18,6 +18,7 @@ target_compile_definitions(
 target_include_directories(
     ${TARGET_NAME} PRIVATE
     "$<$<AND:$<CONFIG:Debug>,$<COMPILE_LANGUAGE:C>>:${PROJECT_SOURCE_DIR}/Inc>"
+    "$<$<AND:$<CONFIG:Debug>,$<COMPILE_LANGUAGE:C>>:${PROJECT_SOURCE_DIR}/Drivers/Inc>"
     "$<$<AND:$<NOT:$<CONFIG:Debug>>,$<COMPILE_LANGUAGE:C>>:${PROJECT_SOURCE_DIR}/Inc>"
 )
 
@@ -62,6 +63,7 @@ target_sources(
     "Src\\main.c"
     "Src\\syscalls.c"
     "Src\\sysmem.c"
+    "Drivers\\Src\\stm32f103xx.c"
 )
 
 add_custom_command(
