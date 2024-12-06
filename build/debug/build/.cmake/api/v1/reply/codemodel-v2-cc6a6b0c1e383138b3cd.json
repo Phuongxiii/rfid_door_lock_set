@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rfid_door_lock_set",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rfid_door_lock_set::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rfid_door_lock_set-Debug-272e1e7df51cbaeb061a.json",
+					"name" : "rfid_door_lock_set",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Document/Microcontroler/Stm32/stm32f103x/register_program/rfid_door_lock_set/build/debug/build",
+		"source" : "C:/Document/Microcontroler/Stm32/stm32f103x/register_program/rfid_door_lock_set"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
