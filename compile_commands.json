@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Document/Microcontroler/Stm32/stm32f103x/register_program/rfid_door_lock_set/build/debug/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\13C7F1~1.2RE\\bin\\AR19DD~1.EXE -fdata-sections -ffunction-sections --specs=nano.specs -Wl,--gc-sections -x assembler-with-cpp -DDEBUG -g -g3 -mcpu=cortex-m3 -o CMakeFiles\\rfid_door_lock_set.dir\\Startup\\startup_stm32f103c8tx.s.obj -c C:\\Document\\Microcontroler\\Stm32\\stm32f103x\\register_program\\rfid_door_lock_set\\Startup\\startup_stm32f103c8tx.s",
+  "file": "C:\\Document\\Microcontroler\\Stm32\\stm32f103x\\register_program\\rfid_door_lock_set\\Startup\\startup_stm32f103c8tx.s",
+  "output": "CMakeFiles\\rfid_door_lock_set.dir\\Startup\\startup_stm32f103c8tx.s.obj"
+},
+{
+  "directory": "C:/Document/Microcontroler/Stm32/stm32f103x/register_program/rfid_door_lock_set/build/debug/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\13C7F1~1.2RE\\bin\\AR19DD~1.EXE -fdata-sections -ffunction-sections --specs=nano.specs -Wl,--gc-sections -DDEBUG -DSTM32 -DSTM32F1 -DSTM32F103C8Tx -IC:/Document/Microcontroler/Stm32/stm32f103x/register_program/rfid_door_lock_set/Inc -IC:/Document/Microcontroler/Stm32/stm32f103x/register_program/rfid_door_lock_set/Drivers/Inc -g -g3 -mcpu=cortex-m3 -o CMakeFiles\\rfid_door_lock_set.dir\\Src\\main.c.obj -c C:\\Document\\Microcontroler\\Stm32\\stm32f103x\\register_program\\rfid_door_lock_set\\Src\\main.c",
+  "file": "C:\\Document\\Microcontroler\\Stm32\\stm32f103x\\register_program\\rfid_door_lock_set\\Src\\main.c",
+  "output": "CMakeFiles\\rfid_door_lock_set.dir\\Src\\main.c.obj"
+},
+{
+  "directory": "C:/Document/Microcontroler/Stm32/stm32f103x/register_program/rfid_door_lock_set/build/debug/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\13C7F1~1.2RE\\bin\\AR19DD~1.EXE -fdata-sections -ffunction-sections --specs=nano.specs -Wl,--gc-sections -DDEBUG -DSTM32 -DSTM32F1 -DSTM32F103C8Tx -IC:/Document/Microcontroler/Stm32/stm32f103x/register_program/rfid_door_lock_set/Inc -IC:/Document/Microcontroler/Stm32/stm32f103x/register_program/rfid_door_lock_set/Drivers/Inc -g -g3 -mcpu=cortex-m3 -o CMakeFiles\\rfid_door_lock_set.dir\\Src\\syscalls.c.obj -c C:\\Document\\Microcontroler\\Stm32\\stm32f103x\\register_program\\rfid_door_lock_set\\Src\\syscalls.c",
+  "file": "C:\\Document\\Microcontroler\\Stm32\\stm32f103x\\register_program\\rfid_door_lock_set\\Src\\syscalls.c",
+  "output": "CMakeFiles\\rfid_door_lock_set.dir\\Src\\syscalls.c.obj"
+},
+{
+  "directory": "C:/Document/Microcontroler/Stm32/stm32f103x/register_program/rfid_door_lock_set/build/debug/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\13C7F1~1.2RE\\bin\\AR19DD~1.EXE -fdata-sections -ffunction-sections --specs=nano.specs -Wl,--gc-sections -DDEBUG -DSTM32 -DSTM32F1 -DSTM32F103C8Tx -IC:/Document/Microcontroler/Stm32/stm32f103x/register_program/rfid_door_lock_set/Inc -IC:/Document/Microcontroler/Stm32/stm32f103x/register_program/rfid_door_lock_set/Drivers/Inc -g -g3 -mcpu=cortex-m3 -o CMakeFiles\\rfid_door_lock_set.dir\\Src\\sysmem.c.obj -c C:\\Document\\Microcontroler\\Stm32\\stm32f103x\\register_program\\rfid_door_lock_set\\Src\\sysmem.c",
+  "file": "C:\\Document\\Microcontroler\\Stm32\\stm32f103x\\register_program\\rfid_door_lock_set\\Src\\sysmem.c",
+  "output": "CMakeFiles\\rfid_door_lock_set.dir\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "C:/Document/Microcontroler/Stm32/stm32f103x/register_program/rfid_door_lock_set/build/debug/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\13C7F1~1.2RE\\bin\\AR19DD~1.EXE -fdata-sections -ffunction-sections --specs=nano.specs -Wl,--gc-sections -DDEBUG -DSTM32 -DSTM32F1 -DSTM32F103C8Tx -IC:/Document/Microcontroler/Stm32/stm32f103x/register_program/rfid_door_lock_set/Inc -IC:/Document/Microcontroler/Stm32/stm32f103x/register_program/rfid_door_lock_set/Drivers/Inc -g -g3 -mcpu=cortex-m3 -o CMakeFiles\\rfid_door_lock_set.dir\\Drivers\\Src\\stm32f103xx.c.obj -c C:\\Document\\Microcontroler\\Stm32\\stm32f103x\\register_program\\rfid_door_lock_set\\Drivers\\Src\\stm32f103xx.c",
+  "file": "C:\\Document\\Microcontroler\\Stm32\\stm32f103x\\register_program\\rfid_door_lock_set\\Drivers\\Src\\stm32f103xx.c",
+  "output": "CMakeFiles\\rfid_door_lock_set.dir\\Drivers\\Src\\stm32f103xx.c.obj"
+}
+]
